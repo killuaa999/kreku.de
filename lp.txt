@@ -13,6 +13,7 @@
   <meta name="og:type" content="product" />
   <meta name="og:description" content="KOITOTO hadir sebagai situs Slot88 Online terbaik di indonesia yang menghadirkan ratusan game dari provider ternama seperti slot88 , pragmatic play, pg soft dan masih banyak lagi." />
   <meta name="og:image" content="https://goodimg.io/images/2025/04/16/a19e87d3-d841-4cf3-bf0c-1439d4f90a1b.png" />
+  <meta name="google-site-verification" content="C8BxBnTKqTVruMfs3NA7MFgZFuqlaudq7vPcZe6lHyw" />
   <link rel="manifest" href="https:https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://imgstore.io/images/2025/03/07/favicon-koi-2025.png" />
   <link rel="amphtml" href="https://koi.avatar-amp.info/kreku.de/" />
